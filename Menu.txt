@@ -1,13 +1,19 @@
-* Lütfen Bir Pizza Tabanı Seçiniz:
-1: Klasik
-2: Margarita
-3: TürkPizza
-4: Sade Pizza
-* ve seçeceğiniz sos:
-11: Zeytin
-12: Mantarlar
-13: Keçi Peyniri
-14: Et
-15: Soğan
-16: Mısır
-* Teşekkür ederiz!
+* Please Select a Pizza Base:
+
+1: Margarita
+2: White
+3: Gamer
+4: MixedSausage
+5: 4 Cheese 
+
+* and the sauce of your choice:
+
+11: Olive
+12: Mushroom
+13: Cheese
+14: Sausage
+15: Onion
+16: Corn
+17: Pepper
+
+* Thank You!
